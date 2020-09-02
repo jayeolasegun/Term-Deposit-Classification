@@ -12,7 +12,7 @@ The Bank of Portugal jsut hired a set of data scientist that are needed to class
 
 
 
-I personally use [**Canva**](https://www.canva.com/) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
+I personally use [**Canva**](!Building.jpg) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
 
 There are endless badges that you could use in your projects. And they do depend on the project. Some of the ones that I commonly use in every projects are given below. 
 
