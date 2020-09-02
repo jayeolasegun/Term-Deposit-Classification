@@ -8,11 +8,7 @@
 <!-- Describe your project in brief -->
 The Bank of Portugal jsut hired a set of data scientist that are needed to classify Customers that would subscribe to their term deposit savings package. 
 
-<!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
-
-
-
-I personally use [**Canva**](!Building.jpg) for creating the banner images. All the basic stuff is **free**(*you won't need the pro version in most cases*).
+![Bank](Building.jpg)
 
 There are endless badges that you could use in your projects. And they do depend on the project. Some of the ones that I commonly use in every projects are given below. 
 
